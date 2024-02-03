@@ -1,0 +1,1 @@
+This is a practice on how to make a JS random number guessing game
